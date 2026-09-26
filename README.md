@@ -275,7 +275,7 @@ python main.py
 
 The chatbot provides an interactive terminal interface.
 
-Example:
+#Example:
 
 ================================
       LLM Mini Chatbot
