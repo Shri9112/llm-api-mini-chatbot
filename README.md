@@ -278,9 +278,8 @@ The chatbot provides an interactive terminal interface.
 ## Example:
 
 
-================================
-      LLM Mini Chatbot
-================================
+====LLM Mini Chatbot====
+
 Type 'exit' to quit.
 Type 'clear' to clear conversation.
 
